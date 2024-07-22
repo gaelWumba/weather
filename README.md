@@ -17,11 +17,13 @@ Cette application mobile récupère la position de l’utilisateur pour lui four
 
 Voici quelques captures d'écran de l'application :
 
-<img src="screenshots/home_screen.png" alt="Écran d'accueil" width="200"/>
 *Écran d'accueil montrant la température actuelle et la localisation.*
 
-<img src="screenshots/detail_screen.png" alt="Écran des détails" width="200"/>
+<img src="screenshots/home_screen.png" alt="Écran d'accueil" width="200"/>
+
 *Écran des détails affichant des informations météorologiques supplémentaires.*
+
+<img src="screenshots/detail_screen.png" alt="Écran des détails" width="200"/>
 
 ## Prérequis
 Avant de commencer, assurez-vous d'avoir les éléments suivants :
